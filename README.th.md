@@ -212,9 +212,13 @@ PuirkleQR ไม่ใช่บริการที่ทุกคนจะส�
 
 PuirkleQR Creative Marketing Team
 
+-Sakuraba Puirkle
+
+Owner Of PuirkleQR
+
 ## License
 
-Copyright (c) 2026 ResinCore. All rights reserved. 
+Copyright (©️) 2026 ResinCore. All rights reserved. 
 Created by Puirkle
 
 คุณสามารถติดตั้งและใช้ซอฟต์แวร์นี้บนคอมพิวเตอร์ของคุณ เพื่อสร้าง บันทึก พิมพ์ และแชร์คิวอาร์โค้ดและบาร์โค้ด รวมถึงใช้เพื่อการค้าได้ คิวอาร์โค้ดและบาร์โค้ดที่คุณสร้างเป็นของคุณ
