@@ -204,6 +204,14 @@ Thanks for using PuirkleQR and supporting my work! Your support helps me continu
 
 — Puirkle
 
+## 🗨 A Message from the Developer
+
+PuirkleQR is not available for general public purchase. Paid access is restricted to those who hold official certification of their worthiness.
+
+— Netako Usaki
+
+PuirkleQR Creative Marketing Team
+
 ## 📜 License
 
 Copyright (c) 2026 ResinCore. All rights reserved. 
