@@ -212,9 +212,13 @@ PuirkleQR is not available for general public purchase. Paid access is restricte
 
 PuirkleQR Creative Marketing Team
 
+-Sakuraba Puirkle
+
+Owner Of PuirkleQR
+
 ## 📜 License
 
-Copyright (c) 2026 ResinCore. All rights reserved. 
+Copyright (©️) 2026 ResinCore. All rights reserved. 
 Created by Puirkle
 
 You may install and use PuirkleQR Studio on your computers to create, save, print and share QR codes and barcodes, including for commercial purposes. The QR codes and barcodes you create belong to you. 
