@@ -214,7 +214,7 @@ PuirkleQR Creative Marketing Team
 
 -Sakuraba Puirkle
 
-Owner Of PuirkleQR
+PuirkleQR Developer
 
 ## License
 
